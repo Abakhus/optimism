@@ -24,7 +24,7 @@
 15. Authentication and Authorization: Implement secure identity management and access control mechanisms, potentially using OAuth or OpenID Connect.
 16. Data Privacy: Ensure compliance with data privacy regulations such as HIPAA or GDPR.
 ## Account Abstraction:
-17. Smart Contract Wallets: Implement account abstraction using smart contract wallets: ERC-4337 such as [Candid](https://www.candide.dev/) then interact with other Optimism products/services
+17. Smart Contract Wallets: Implement account abstraction using smart contract wallets: ERC-4337 such as [Candide](https://www.candide.dev/) then interact with other Optimism products/services
 18. User Onboarding: Simplify the onboarding process for users like clinical labs and hospitals by using account abstraction for easier and more flexible account management.
 19. Multi-Sig Wallets: Use multi-signature wallets for organizations like hospitals to ensure secure and collaborative decision-making.
 ## User Interface Design:
